@@ -1,12 +1,15 @@
+[v-cloak] {
+  display: none;
+}
+
 svg {
   position: absolute;
   top: -50px;
   height: calc(100% + 50px);
 }
-.city g,
-.info,
+
 .point {
-  /* display: none; */
+   display: none;
 }
 
 /* General style */
